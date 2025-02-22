@@ -2,10 +2,8 @@
  * @name Base64Encoder
  * @author mannygamer29
  * @description Encodes outgoing messages into Base64 automatically.
- * @version 1.0.1
- * @authorLink https://yourlinkhere.com
- * @website https://yourwebsitehere.com
- * @source https://github.com/yourrepohere
+ * @version 1.0.2
+ * @source https://github.com/mannygamer29/Base64Encoder
  */
 
 class Base64Encoder {
